@@ -52,14 +52,14 @@ Classification- Genre, Author
 3.May records the highest monthly sales at approximately 8.3K.
 4.Sales are not evenly distributed across the year. The difference between high-performing and low-performing months suggests an opportunity to investigate seasonality, promotions, customer demand, and marketing campaigns.
 
-## Recommendations
-1. Focus on High-Performing Genres
+## 5) Recommendations
+## 1. Focus on High-Performing Genres
    Romance
    Mystery
    Science Fiction
    Non-Fiction
    Fantasy
-2. Investigate Low-Sales Months
+## 2. Investigate Low-Sales Months
    *June has considerably lower sales than the strongest months.
    *The business should consider:
      Seasonal promotions
@@ -68,20 +68,20 @@ Classification- Genre, Author
      Email marketing
      New-book launches
      Genre-specific offers during weaker periods.
-3. Develop Customer Loyalty Programs
+## 3. Develop Customer Loyalty Programs
     High-value customers should be targeted with:
     *Loyalty points
     *Personalized discounts
     *Exclusive offers
     *Personalized book recommendations
     *Repeat-purchase incentives
-4. Optimize Inventory
+## 4. Optimize Inventory
     Inventory should be linked with sales velocity.
     Books with:
        High Sales + Low Stock → Reorder quickly
        Low Sales + High Stock → Consider promotions
     This can help reduce inventory carrying costs.
-5. Use Geographical Marketing
+## 5. Use Geographical Marketing
    Since customers are spread across many countries and cities, marketing campaigns can be segmented geographically.
     For example:
      Country-specific promotions
@@ -89,12 +89,12 @@ Classification- Genre, Author
      Region-based campaigns
      Shipping incentives
      Regional bestseller lists
-6. Increase Cross-Selling
+## 6. Increase Cross-Selling
   Customers purchasing books from high-performing genres can be recommended similar books.
   For example:
     Romance buyer → Romance + Fantasy recommendations
     Mystery buyer → Mystery + Thriller recommendations
-7. Analyze Customer Lifetime Value
+## 7. Analyze Customer Lifetime Value
    Future versions of the dashboard should include:
     Customer Lifetime Value
     Repeat Purchase Rate
