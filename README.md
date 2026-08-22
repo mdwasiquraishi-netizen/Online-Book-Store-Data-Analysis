@@ -108,5 +108,6 @@ Classification- Genre, Author
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Orders.csv">Dataset</a>
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Onlinebook%20SQL%20query.docx">SQL Query</a>
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012547.png">Overview</a>
+- <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012610.png">Sales Analysis</a>
 - <a href="
  
