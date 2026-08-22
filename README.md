@@ -111,5 +111,6 @@ Classification- Genre, Author
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012610.png">Sales Analysis Dashboard</a>
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012634.png">Book Analysis Dashboard</a>
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012652.png">Customer Analysis Dashboard</a>
+- <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012717.png">Geography Analysis Dashboard</a>
 - <a href="
  
