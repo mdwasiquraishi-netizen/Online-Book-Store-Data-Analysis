@@ -104,6 +104,6 @@ Classification- Genre, Author
 
 ## 6) Deliverables
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Books.csv">Dataset</a>
-- <a href="
+- <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Customers.csv">Dataset</a>
 - <a href="   
  
