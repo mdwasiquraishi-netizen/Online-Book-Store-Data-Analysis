@@ -114,8 +114,21 @@ Classification- Genre, Author
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012717.png">Geography Analysis Dashboard</a>
 - <a href="https://github.com/mdwasiquraishi-netizen/Online-Book-Store-Data-Analysis/blob/main/Screenshot%202026-08-22%20012743.png">Insights</a>
 
-## Dashboard Preview
+## 7) Dashboard Preview
 <img width="902" height="507" alt="Screenshot 2026-08-22 012547" src="https://github.com/user-attachments/assets/79de360a-a26a-4620-a63c-32a4f802200e" />
+<img width="903" height="507" alt="Screenshot 2026-08-22 012610" src="https://github.com/user-attachments/assets/1b121cd8-d252-41f6-8406-719f375690f3" />
+<img width="903" height="511" alt="Screenshot 2026-08-22 012634" src="https://github.com/user-attachments/assets/1c45db8d-ff09-425a-b69f-70604b308500" />
+<img width="901" height="510" alt="Screenshot 2026-08-22 012652" src="https://github.com/user-attachments/assets/51cedf2b-fb07-4e2b-9fe1-6c59a1be006f" />
+<img width="908" height="514" alt="Screenshot 2026-08-22 012717" src="https://github.com/user-attachments/assets/cfe180ee-5fbc-4c62-b1df-07217fb61814" />
+<img width="905" height="517" alt="Screenshot 2026-08-22 012743" src="https://github.com/user-attachments/assets/08fad906-df1d-4521-badb-8d663bd8fdb5" />
+
+## 8) Conclusions
+The analysis shows total sales of approximately 75.63K, 500 orders, 500 customers, and approximately 3K units sold. Romance is the highest-performing genre, while January and May are among the strongest sales periods. August has the highest order volume, and the customer analysis highlights several high-value customers who contribute significantly to revenue.
+
+The geographical analysis demonstrates a broad international customer presence across 215 countries and 489 cities.
+
+Overall, this Power BI project demonstrates how raw bookstore data can be transformed into an interactive business intelligence solution that supports data-driven decision-making, sales optimization, customer retention, inventory planning, and geographical marketing.
+
 
 
 
